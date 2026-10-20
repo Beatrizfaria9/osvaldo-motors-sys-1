@@ -39,5 +39,5 @@ O sistema busca facilitar a organização das informações dos reparos e tornar
 - O sistema deve registrar a placa e o modelo do veículo, o serviço realizado e o valor cobrado.
 
 
-![Diagrama DER](./der.png)
+![Diagrama DER](./DER.png)
 
