@@ -38,5 +38,6 @@ O sistema busca facilitar a organização das informações dos reparos e tornar
 - Todo serviço deve estar vinculado a um cliente cadastrado.
 - O sistema deve registrar a placa e o modelo do veículo, o serviço realizado e o valor cobrado.
 
+
 ![Diagrama DER](./der.png)
 
