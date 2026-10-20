@@ -32,12 +32,11 @@ O sistema busca facilitar a organização das informações dos reparos e tornar
 - A cardinalidade do relacionamento é 1:N (um para muitos).
 
   
-### 4. Regras de negócio
+4. Regras de negócio
 - Cada cliente possui um identificador único.
 - Cada serviço possui um identificador único.
 - Todo serviço deve estar vinculado a um cliente cadastrado.
 - O sistema deve registrar a placa e o modelo do veículo, o serviço realizado e o valor cobrado.
 
 ![Diagrama DER](./der.png)
-
 
